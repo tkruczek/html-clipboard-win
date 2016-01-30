@@ -15,5 +15,8 @@
     "html"
   ],
   "author": "Tomasz Kruczek",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "win-clipboard": "git+https://github.com/tkruczek/win-clipboard.git"
+  }
 }
