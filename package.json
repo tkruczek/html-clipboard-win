@@ -1,0 +1,19 @@
+{
+  "name": "html-clipboard-win",
+  "version": "0.0.0",
+  "description": "Get HTML contents of a clipboard on windows",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tkruczek/win-clipboard.git"
+  },
+  "keywords": [
+    "clipboard",
+    "html"
+  ],
+  "author": "Tomasz Kruczek",
+  "license": "ISC"
+}
